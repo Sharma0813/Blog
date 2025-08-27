@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "slug": "Space-dog",
+    "title": "Liaka",
+    "excerpt": "Laika was a pioneer who made it possible for humans to travel into space, at the cost of her own life.",
+    "author": "Wildlife Blogger",
+    "date": "2025-08-15T10:00:00.000Z",
+    "tags": [
+      "dog",
+      "animals",
+      "space"
+    ],
+    "cover": "/src/assets/dog.jpg",
+    "content": "<p>On November 3, 1957,the first living creature to orbit Earth aboard Sputnik 2,launched by the Soviet Union.Officials claimed she survived for days.Later,found that she likely died within hours due to the spacecraft cooling system failed.</p>"
+  },
+  {
+    "id": 2,
+    "slug": "Lion",
+    "title": "Scarface",
+    "excerpt":"Got his name after a fight with another lion left a deep scar over his right eye.That gave him a fierce look",
+    "author": "Safari Explorer",
+    "date": "2025-08-16T12:30:00.000Z",
+    "tags": [
+      "lions",
+      "wildlife",
+      "big cats"
+    ],
+    "cover": "/src/assets/lion.jpg",
+    "content": "<p>The Legendary Lion of the Maasai Mara.Scarface was one of the most famous lions in Africa. He lived in the Maasai Mara National Reserve in Kenya and became a global icon due to his distinctive appearance and powerful story.</p>"
+  },
+  {
+    "id": 3,
+    "slug": "colorful-parrots",
+    "title": "Hercules",
+    "excerpt": "The Parrot That Solved a Murder case.Neelam Sharma was found murdered in her home in Agra. Police struggled to find clues.",
+    "author": "Bird Lover",
+    "date": "2025-08-17T09:20:00.000Z",
+    "tags": [
+      "parrots",
+      "birds",
+      "exotic"
+    ],
+    "cover": "/src/assets/parrot.jpg",
+    "content": "<p>When the name of the victim’s nephew was mentioned, the parrot screeched loudly in fear,police investigated nephew and he confessed to the crime.</p>"
+  }
+]
